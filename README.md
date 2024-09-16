@@ -1,3 +1,12 @@
+Estou radiante com a conquista do meu certificado do curso de React: desenvolvendo com JavaScript! 🎉 Aprendi tantas coisas incríveis, como as vantagens do React, a implementação de componentes reativos, a análise de mensagens de erro, a evolução dos componentes de acordo com o projeto e até mesmo a prototipação de uma aplicação do zero até o deploy. 🚀 Estou me sentindo muito mais preparado e confiante para seguir evoluindo nos meus estudos! #React #JavaScript #AprendiNaAlura
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
